@@ -12,7 +12,7 @@ In this projects I developed a realtime finger counter in which you just have to
 
 By using the hand module present in teh mediapipe solutions which has been trained on millions of images we can predict 20 landmarks for different points of our fingers then we can use these landmarks to develop a little bit of logic to identify how many fingers are up.
 
-![image](https://user-images.githubusercontent.com/77848178/164980686-ed1d82b8-0275-44e9-b8ac-8d981e2faf20.png)
+![image](https://user-images.githubusercontent.com/77848178/164981306-bfeef084-0c5f-4da7-9443-58a7370e7478.png)
 
 
 ## Project 2:
@@ -22,7 +22,7 @@ Here based on the distance between the thumbs tip and the index fingers tip volu
 
 Code for the Pose detection and Face Mesh has been provided in this repository for real time predictions.
 
-![image](https://user-images.githubusercontent.com/77848178/164981127-0d9364c2-9a7f-40b5-8017-41c7c9e8fc86.png)
+![image](https://user-images.githubusercontent.com/77848178/164981227-d547f873-8e7a-41d5-900e-ce8d0b6537ca.png)
 ![image](https://user-images.githubusercontent.com/77848178/164981070-bda456a9-aad5-402a-8412-4d0994327cf1.png)
 
 
